@@ -375,7 +375,7 @@ def main():
     # path to dir for mbs output
     data_dir = '../results'
     # path to dir for stats 
-    stats_dir = '../data/231031stats'
+    stats_dir = '../data'
     # number of replication 
     n_run = 2
     # set number of cpu
