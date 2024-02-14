@@ -10,7 +10,7 @@ Libraries
 
 Other softwares
 - mbs (Teshima and Innan. Bioinformatics 2009. software page)
-- rehh (Gautier et al. Molecular ecology resources 2017. software page)
+- rehh (Gautier et al. Molecular ecology resources 2017. software page)  
 For details about the installation method and usage of these software, please refer to the original software pages and manuals therein.
 
 ## Contents
